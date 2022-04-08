@@ -6,7 +6,7 @@
 function fun1() { }
 
 //armazenar em uma variável
-const fun2 = function () { } //função anonima
+const fun2 = function () { } //função anon
 
 //armazenas em um array
 const array = [function (a, b) { return a + b }, fun1, fun2]
